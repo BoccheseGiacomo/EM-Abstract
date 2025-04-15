@@ -17,7 +17,7 @@ If for any reason you use this abstract or Emergent Models, or any idea stemming
   author       = {Giacomo Bocchese},
   title        = {Machine Learning from Cellular Automata: Emergent Models (EMs) as Alternatives to Neural Networks},
   year         = {2025},
-  note         = {Abstract of an in-progress research paper. Full version available upon request.},
+  note         = {Abstract of an in-progress research paper. Full version available upon request. Published April 14, 2025.},
   howpublished = {\url{https://github.com/BoccheseGiacomo/EM-Abstract}},
 }
 ```

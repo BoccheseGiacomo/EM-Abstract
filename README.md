@@ -12,6 +12,7 @@ First version in-progress (of full paper) published at date: 14 April 2025.
 If for any reason you use this abstract or Emergent Models, or any idea stemming from it, cite it accordingly (citation section).
 
 ## Citation
+```bibtex
 @misc{bocchese2025em,
   author       = {Giacomo Bocchese},
   title        = {Machine Learning from Cellular Automata: Emergent Models (EMs) as Alternatives to Neural Networks},
@@ -19,3 +20,4 @@ If for any reason you use this abstract or Emergent Models, or any idea stemming
   note         = {Abstract of an in-progress research paper. Full version available upon request.},
   howpublished = {\url{https://github.com/BoccheseGiacomo/EM-Abstract}},
 }
+```
